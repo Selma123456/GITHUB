@@ -2,15 +2,17 @@
 git status
 git init
 git add new 1.html
-git diff
-git log
+git status
+git diff ( voir les changements effectués)
+git log ( visuaiser tout les commit)
 
 $ git remote add origin https://github.com/Selma123456/trieis.git
 $ git remote -v
 $ git push origin master
+Git branch (nom pranch)
+Git branch
+Git checkout ( nom de la branche pour se mettre sur cette branch)
 
+Git checkout master ( retourner dans la branche principaleà
 
-
-
-
-git
+Git clone
