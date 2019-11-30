@@ -19,8 +19,8 @@ programme qui :
 import re
 import sys
 
-#print(sys.argv[1])
-#exit()
+print(sys.argv[1])
+exit()
 
 
 def lire_liste(fn):
@@ -46,7 +46,7 @@ for line in f:
     match = re.search('(.{0,' + ctx_g +'})'+ keyword + '(.{0,' + ctx_d +'})',line,re.I)
     if match:
         print(match.group(1) + "\t"+ match.group(2) + "\t" + match.group(3))
-    #print(res[1])
+    print(res[1])
     
     
     
