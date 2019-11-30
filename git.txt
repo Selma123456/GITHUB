@@ -1,0 +1,16 @@
+﻿commande git:
+git status
+git init
+git add new 1.html
+git diff
+git log
+
+$ git remote add origin https://github.com/Selma123456/trieis.git
+$ git remote -v
+$ git push origin master
+
+
+
+
+
+git
